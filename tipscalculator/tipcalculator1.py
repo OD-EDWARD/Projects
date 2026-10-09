@@ -1,4 +1,4 @@
-print("welcome to the tip calculator")
+Get-Content .gitignoreprint("welcome to the tip calculator")
 bill = float(input("What was the total bill? $"))
 tip = int(input("what percentage of tip do you want to give? 10 12 15 "))
 people = int(input("How many people to spit the bill? "))
